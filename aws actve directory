@@ -1,0 +1,9 @@
+create aws manged directory service
+it will give two dns ips
+create 2 windows 12 instance
+change system properties like in the ipv4 add the prefered dns is which come from the aws manged services
+add the roles and fetaures remote server administrtor tool
+login with the domain name add the active directory domain users and computers
+take the second system add that to the domain in pc properties(ipv4)prefered dns and alternative dns.
+take linux system and run commands which has given in the attch efs.
+
